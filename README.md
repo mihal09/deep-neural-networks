@@ -1,4 +1,4 @@
-# Deep Neural Networks Solutions @ MIMUW
+# Deep Neural Networks @ MIMUW
 
 This repository contains my personal solutions for the "Deep Neural Networks" course at [MIMUW](https://www.mimuw.edu.pl/). The course covers practical aspects of deep neural networks, including various techniques, algorithms, and tools used in fields like image recognition and natural language processing.
 
